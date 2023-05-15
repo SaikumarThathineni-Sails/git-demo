@@ -1,0 +1,8 @@
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{0}: checkout: moving from first-branch to master
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{1}: checkout: moving from first-branch to first-branch
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{2}: checkout: moving from first-branch to first-branch
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{3}: checkout: moving from master to first-branch
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{4}: checkout: moving from my-first-branch to master
+[33mf4651ef[m[33m ([m[1;31morigin/my-first-branch[m[33m)[m HEAD@{5}: commit: my second commit
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{6}: checkout: moving from master to my-first-branch
+[33mcc46617[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfirst-branch[m[33m)[m HEAD@{7}: commit (initial): first commit
